@@ -1,2 +1,4 @@
+# mountpoints:
+#   /: https://drive.google.com/drive/u/0/folders/1wpnGatUfIpyAmuMEbdBgDuqakl5bg8ol
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1wpnGatUfIpyAmuMEbdBgDuqakl5bg8ol
+  /: https://adobe.sharepoint.com/sites/FedsPublishing/Shared%20Documents/fedPub
